@@ -1,0 +1,123 @@
+layout: layout.njk
+antetitulo: |
+  1º Encontro<br>
+  deseñadoras<br>
+  e deseñadores<br>
+  galegos
+
+titulo: Rianxo
+
+subtitulo: |
+  Auditorio de Rianxo<br>
+  Salón de actos<br>
+  31.07-01.08<br>
+  2015
+
+programa:
+  - dia: Venres, 31 de xullo
+    info:
+      - hora: 10:30 - 11:00h
+        titulo: Benvida e presentación
+
+      - hora: 11:00 - 13:30h
+        titulo: Debate
+        info: Políticas de deseño para Galicia
+        persoas:
+          - nome: Uqui Permui
+            url: http://uqui.net/gl
+
+      - hora: 16:30 - 18:00h
+        titulo: Conferencia
+        info: Tipografía personalizada para sistemas de identidade corporativa
+        persoas:
+          - nome: Marcos Dopico
+            url: http://www.maistypes.com/
+
+      - hora: 18:15 - 20:00h
+        titulo: Presentacións
+        persoas:
+          - nome: Antón García Seoane/ROKdesign
+            url: http://www.rokdesign.es/
+            
+          - nome: Costa
+            url: http://www.costa.io/
+            
+          - nome: Óscar Otero
+            url: http://oscarotero.com/gl
+            
+          - nome: Sond3
+            url: http://www.sond3.com/es/
+            
+          - nome: Uqui Permui
+            url: http://uqui.net/gl
+            
+          - nome: Desoños
+            url: http://www.desonhos.net/
+
+  - dia: Sábado, 1 de agosto
+    info:
+      - hora: 11:00 - 13:30h
+        titulo: Conferencia
+        info: Arquivar, mostrar, estudar o deseño galego
+        persoas:
+          - nome: Pepe Barro
+            url: http://gruporevision.net/
+
+      - hora: 16:30 - 18:30h
+        titulo: Presentacións
+        persoas:
+          - nome: Cenlitrosmetrocadrado
+            url: http://cenlitrosmetrocadrado.com/?lang=gl
+            
+          - nome: Artworkatwork
+            url: http://www.artworkatwork.pro/
+            
+          - nome: desescribir
+            url: http://www.desescribir.com/
+            
+          - nome: Pancho Lapeña
+            url: http://cargocollective.com/panchez/
+            
+          - nome: Martiño Villaverde
+            url: http://martinovillaverde.com/
+            
+          - nome: Ekinocio
+            url: http://www.ekinocio.com/
+
+      - hora: 19:00 - 20:00h
+        titulo: Visita
+        info: Casa-Museo Manuel Antonio
+        persoas:
+          - nome: Xosé Luis Axeitos
+      
+      - hora: 20:00h
+        titulo: Peche do encontro
+
+info: |
+  ## Moitas grazas a todos os que participastes
+
+medios:
+  - titulo: 1º Encontro deseñadoras e deseñadores galegos en Rianxo
+    url: http://concelloderianxo.gal/cultura/-/blogs/1-encontro-desenadoras-e-desenadores-galegos-en-rianxo
+    medio: Concello de Rianxo
+  - titulo: O deseño galego xúntase en Rianxo para analizar a situación da profesión
+    url: http://praza.gal/cultura/9910/o-deseno-galego-xuntase-en-rianxo-para-analizar-a-situacion-da-profesion/
+    medio: Praza
+  - titulo: Rianxo acolle o I Encontro de Deseñadores e Deseñadoras galegos
+    url: http://culturagalega.gal/noticia.php?id=25619
+    medio: Cultura Galega
+  - titulo: Primer Encuentro de diseñadoras y diseñadores gallegos
+    url: http://graffica.info/encuentro-disenadores-gallegos/
+    medio: Gráffica
+  - titulo: Deseñadores galegos organizan o seu primeiro encontro en Rianxo
+    url: http://www.lavozdegalicia.es/noticia/cultura/2015/07/26/desenadores-galegos-organizan-seu-primeiro-encontro-rianxo/0003_201507G26P46995.htm
+    medio: La voz de Galicia
+  - titulo: 1º Encontro de deseñadoras e deseñadores galegos
+    url: http://croamagazine.es/1o-encontro-de-desenadoras-e-desenadores-galegos/
+    medio: Croa magazine
+  - titulo: Los diseñadores gráficos gallegos toman Rianxo para intercambiar impresiones
+    url: http://www.lavozdegalicia.es/noticia/barbanza/rianxo/2015/08/01/disenadores-graficos-gallegos-toman-rianxo-intercambiar-impresiones/00031438368797039701866.htm
+    medio: La voz de Galicia
+
+social_destacados:
+  - https://www.flickr.com/photos/asociaciondag/sets/72157654578390304
